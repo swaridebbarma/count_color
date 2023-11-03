@@ -1,0 +1,30 @@
+.ButtonContainer {
+    display: flex;
+    justify-content: space-around;
+}
+.mainColorBox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 5rem;
+}
+
+.countContainer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.colorBox {
+    width: 25rem;
+    height: 25rem;
+    border: 2px solid black;
+    align-self:center;
+    margin: 5rem;
+}
+.Button button{
+    height: 2rem;
+    width: 5rem;
+    margin: 5px;
+}
+
+
